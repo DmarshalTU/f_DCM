@@ -207,3 +207,7 @@ This ensures that if the material in the Secret containing the server key and ce
 The same concept also applies when configuring a server for mutually-authenticated TLS; don’t give the server access to Secret containing the client certificate and private key.
 
 ![alt](2.png)
+
+## Deploy Prometheus on Kubernetes
+[Cert Manager Kubernetes Tutorial](https://github.com/antonputra/tutorials/tree/main/lessons/083)
+
